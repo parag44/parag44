@@ -52,5 +52,5 @@ I am an active member of the WordPress community and a regular attendee of **Wor
 - **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username) ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parag44&show_icons=true&theme=radical" alt="Parag's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parag44&theme=radical" alt="GitHub Streak" />
 </p>
